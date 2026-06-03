@@ -1,0 +1,1 @@
+GhostHunter is an async Python tool hunting "ghost accounts"—forgotten ex-employee profiles with repo access. Running entirely on-premises via Docker, your API keys and payroll data never leave your network. It maps messy usernames to real emails and alerts Slack instantly if a breach is found. Run: docker run -e GITHUB_TOKEN=xyz ghosthunter
